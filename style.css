@@ -34,7 +34,7 @@ div {
   background: red;
   width: 25%;
   display: block;
-  /*float: left;*/
+  float: left;
   align-content: center;
 }
 
