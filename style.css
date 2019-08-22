@@ -35,6 +35,7 @@ div {
   width: 25%;
   display: block;
   float: left;
+  align-content: center;
 }
 
 #featured-property {
