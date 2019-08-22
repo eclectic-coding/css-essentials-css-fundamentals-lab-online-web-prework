@@ -26,6 +26,10 @@ img {
   margin: 0 auto;
 }
 
+figure {
+  margin: 0 auto;
+}
+
 #featured-property {
   align-content: center;
   margin: 0 auto;
