@@ -32,6 +32,7 @@ img {
 figcaption {
   text-align: center;
   font-size: 0.75rem;
+  font-style: italic;
   margin-top: 3px;
 }
 
