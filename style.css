@@ -43,6 +43,6 @@ div {
 }
 
 #details ~ div {
-  align-items: center;
+  align-content: center;
 }
 
