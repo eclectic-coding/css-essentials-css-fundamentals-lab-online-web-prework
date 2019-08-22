@@ -48,7 +48,9 @@ p {
   text-align: center;
   width: 70%;
   margin: 0 auto;
+  padding: 10px 0;
 }
+
 #featured-property {
   align-content: center;
   margin: 0 auto;
