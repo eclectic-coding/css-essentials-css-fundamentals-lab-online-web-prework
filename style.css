@@ -30,6 +30,10 @@ figure {
   margin: 0 auto;
 }
 
+div {
+  width: 25%;
+}
+
 #featured-property {
   align-content: center;
   margin: 0 auto;
