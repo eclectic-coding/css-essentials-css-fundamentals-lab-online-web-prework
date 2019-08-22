@@ -22,6 +22,10 @@ a {
   padding: 0 10px;
 }
 
+img {
+  align-items: center;
+}
+
 #featured-property {
   align-content: center;
   margin: 0 auto;
