@@ -29,7 +29,9 @@ img {
   width: 50%;
 }
 
-
+figcation {
+  text-align: center;
+}
 div {
   background: red;
   width: 25%;
