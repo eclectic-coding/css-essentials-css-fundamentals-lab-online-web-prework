@@ -31,17 +31,13 @@ figure {
 }
 
 div {
+  background: red;
   width: 25%;
 }
 
 #featured-property {
   align-content: center;
   margin: 0 auto;
-}
-
-#details {
-  
-  background: red;
 }
 
 #details ~ div {
