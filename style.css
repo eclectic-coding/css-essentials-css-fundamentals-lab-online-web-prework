@@ -33,6 +33,8 @@ figure {
 div {
   background: red;
   width: 25%;
+  display: block;
+  float: left;
 }
 
 #featured-property {
